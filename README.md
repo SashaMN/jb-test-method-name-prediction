@@ -1,4 +1,4 @@
-# jbjb-test-method-name-prediction
+# jb-test-method-name-prediction
 
 
 | Model  | Precision | Recall  | F1 |
