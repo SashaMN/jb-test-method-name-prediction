@@ -3,7 +3,8 @@
 ## Notes
 
 1. Metrics are not sensitive to the order of tokens. It's easy to hack metrics by adding all of the permutations of tokens to the train dataset. But in practice such model will be useless.
-2. I have lost one instance while I was working on this task. That's why I have only wandb logs for first 2 experiments (see screenshots).
+2. Models tend to overfit. But all the metrcis (precision, recall, f1) are looking good.
+3. I have lost one instance while I was working on this task. That's why I have only wandb logs for first 2 experiments (see screenshots).
 
 ## Results
 
